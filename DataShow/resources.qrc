@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/DataShow" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
